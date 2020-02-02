@@ -1,0 +1,2 @@
+# primzahlen
+Sieb des Eratosthenes
