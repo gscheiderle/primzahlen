@@ -9,3 +9,6 @@ das Programm abstürzt.
 Update hochgeleden.
 bedeutend schneller.
 Stürzt jetzt erst bei über einer Million ab.
+
+In der primzahlen.csv sind alle Primzahlen bis 1 Millon (7848).
+Die 2 ist manuell gesetzt.
