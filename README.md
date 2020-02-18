@@ -8,4 +8,4 @@ das Programm abstürzt.
 18.2.2020
 Update hochgeleden.
 bedeutend schneller.
-Stürzt jetzt bei ca. 550 000 ab.
+Stürzt jetzt erst bei über einer Million ab.
